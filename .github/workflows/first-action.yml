@@ -6,8 +6,8 @@ jobs:
     steps:
       - name: Print greeting
         run: |
-            echo "Hello Friends!"
-            echo "Is it finally OK?"
+            echo "Holla Amigo!"
+            echo "are you okay?"
             sleep 1
       - name: Print goodbye
         run: |
